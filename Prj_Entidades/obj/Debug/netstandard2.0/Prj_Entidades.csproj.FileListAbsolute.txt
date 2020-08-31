@@ -1,0 +1,9 @@
+C:\Users\JOSE GENAO\source\repos\ProyectoConCapas\Prj_Entidades\bin\Debug\netstandard2.0\Prj_Entidades.deps.json
+C:\Users\JOSE GENAO\source\repos\ProyectoConCapas\Prj_Entidades\bin\Debug\netstandard2.0\Prj_Entidades.dll
+C:\Users\JOSE GENAO\source\repos\ProyectoConCapas\Prj_Entidades\obj\Debug\netstandard2.0\Prj_Entidades.csprojAssemblyReference.cache
+C:\Users\JOSE GENAO\source\repos\ProyectoConCapas\Prj_Entidades\obj\Debug\netstandard2.0\Prj_Entidades.AssemblyInfoInputs.cache
+C:\Users\JOSE GENAO\source\repos\ProyectoConCapas\Prj_Entidades\obj\Debug\netstandard2.0\Prj_Entidades.AssemblyInfo.cs
+C:\Users\JOSE GENAO\source\repos\ProyectoConCapas\Prj_Entidades\bin\Debug\netstandard2.0\Prj_Entidades.pdb
+C:\Users\JOSE GENAO\source\repos\ProyectoConCapas\Prj_Entidades\obj\Debug\netstandard2.0\Prj_Entidades.csproj.CoreCompileInputs.cache
+C:\Users\JOSE GENAO\source\repos\ProyectoConCapas\Prj_Entidades\obj\Debug\netstandard2.0\Prj_Entidades.dll
+C:\Users\JOSE GENAO\source\repos\ProyectoConCapas\Prj_Entidades\obj\Debug\netstandard2.0\Prj_Entidades.pdb
